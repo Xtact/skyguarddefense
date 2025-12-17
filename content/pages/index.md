@@ -4,12 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: SkyGuard Defense Systems
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Anti Drone Technology
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
+SkyGuard Defense Systems
+    A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
