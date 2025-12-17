@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Anti Drone Technology
-    text:
+    text: >
     SkyGuard Defense Systems.  Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
