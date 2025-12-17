@@ -8,9 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Anti Drone Technology
-    text: >
-SkyGuard Defense Systems
-    A Netlify Create website is a git repo that you own. Every code commit is
+    text: >-
+    SkyGuard Defense Systems.  Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
